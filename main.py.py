@@ -11,7 +11,7 @@ import numpy as np
 # Add the YOLOv5 directory to the Python path
 
 # Add the YOLOv5 directory to the Python path
-yolo_path = 'C:/Users/shrey/Desktop/yolov5-master/yolov5-master'
+yolo_path = 'C:/Users/yolov5-master/yolov5-master'
 sys.path.append(yolo_path)
 
 from models.common import DetectMultiBackend
