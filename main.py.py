@@ -74,7 +74,7 @@ output_dir = 'detected_objects2'
 os.makedirs(output_dir, exist_ok=True)
 
 # Capture video
-video_path = r'C:\Users\shrey\Videos\AI4SEE sample.mp4'  # your video path
+video_path = r''  # your video path
 cap = cv2.VideoCapture(video_path)
 
 frame_count = 0
